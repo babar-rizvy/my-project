@@ -1,4 +1,3 @@
-# Git Lab Assignment
 # Git Lab Assignment — Git & GitHub
 
 This repository contains the work completed for the Git Lab Assignment. The assignment demonstrates practical Git and GitHub operations including feature branch development, multi-level merging, stashing changes, merge conflict resolution, restoring files, and undoing commits using Git reset.
